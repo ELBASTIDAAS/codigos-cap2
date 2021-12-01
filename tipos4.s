@@ -1,3 +1,6 @@
+//@author   Bastidas Verdin Miguel Antonio
+//@Date     01/12/2021
+
 .data
 		var1 : .asciz " La suma es %d \n"
 		var2 : .word 128, 32, 100, - 30, 124
