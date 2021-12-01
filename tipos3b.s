@@ -1,3 +1,6 @@
+//@author   Bastidas Verdin Miguel Antonio
+//@Date     01/12/2021
+
 .data
 		var1 : .asciz " %d\ 012 "
 .text
