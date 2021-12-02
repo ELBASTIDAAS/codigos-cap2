@@ -4,7 +4,7 @@
 //@author   Bastidas Verdin Miguel Antonio
 //@Date     01/12/2021
 
-global .main
+.global main
 main:
 		/*Carga el contenido de la memoria a en r1 */
 		ldr r1, = a
